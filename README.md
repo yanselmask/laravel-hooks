@@ -177,6 +177,13 @@ class ModuleServiceProvider extends ServiceProvider
 ```
 
 
+## Support us
+We invest a lot of resources into video tutorials and creating open-source packages. If you like what I do or if you ever made use of something I built or from my videos, consider supporting us. This will allow us to focus even more time on the tutorials and open-source projects we're working on.
+
+[![Yanselmask, Inc](https://i.imgur.com/zHowozE.png)](https://buymeacoffee.com/yanselmask)
+
+Thank you so much for helping us out! 🥰
+
 ## License
 
 The MIT License (MIT). Please see [License File](LICENSE) for more information.
