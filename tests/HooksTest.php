@@ -2,7 +2,7 @@
 
 namespace Test;
 
-use Millat\LaravelHooks\Hooks;
+use Yanselamsk\LaravelHooks\Hooks;
 use PHPUnit\Framework\TestCase;
 
 class HooksTest extends TestCase
