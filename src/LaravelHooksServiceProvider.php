@@ -1,10 +1,10 @@
 <?php
 
-namespace Millat\LaravelHooks;
+namespace Yanselmask\LaravelHooks;
 
 use Illuminate\Support\ServiceProvider;
 use Illuminate\Support\Facades\Blade;
-use Millat\LaravelHooks\Hooks;
+use Yanselmask\LaravelHooks\Hooks;
 
 class LaravelHooksServiceProvider extends ServiceProvider
 {

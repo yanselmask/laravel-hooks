@@ -1,6 +1,6 @@
 <?php
 
-namespace Millat\LaravelHooks;
+namespace Yanselmask\LaravelHooks;
 
 /**
  * PHP Hooks Class
